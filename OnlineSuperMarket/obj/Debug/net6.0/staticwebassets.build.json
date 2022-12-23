@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "wWcA5LmEXzKrKbcnDBKFo76kyIkK26p9M2y00KhS2CY=",
+  "Source": "OnlineSuperMarket",
+  "BasePath": "_content/OnlineSuperMarket",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OnlineSuperMarket\\wwwroot",
+      "Source": "OnlineSuperMarket",
+      "ContentRoot": "C:\\Users\\Abin\\Documents\\My\\Project\\SuperMarket\\OnlineSuperMarket\\wwwroot\\",
+      "BasePath": "_content/OnlineSuperMarket",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Services.Interfaces\bin\Debug\net6.0\SuperMarket.Services.Interfaces.deps.json
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Services.Interfaces\bin\Debug\net6.0\SuperMarket.Services.Interfaces.dll
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Services.Interfaces\bin\Debug\net6.0\SuperMarket.Services.Interfaces.pdb
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Services.Interfaces\bin\Debug\net6.0\SuperMarket.Domain.DTO.dll
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Services.Interfaces\bin\Debug\net6.0\SuperMarket.Domain.DTO.pdb
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Services.Interfaces\obj\Debug\net6.0\SuperMarket.Services.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Services.Interfaces\obj\Debug\net6.0\SuperMarket.Services.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Services.Interfaces\obj\Debug\net6.0\SuperMarket.Services.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Services.Interfaces\obj\Debug\net6.0\SuperMarket.Services.Interfaces.AssemblyInfo.cs
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Services.Interfaces\obj\Debug\net6.0\SuperMarket.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Services.Interfaces\obj\Debug\net6.0\SuperMarket.Services.Interfaces.csproj.CopyComplete
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Services.Interfaces\obj\Debug\net6.0\SuperMarket.Services.Interfaces.dll
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Services.Interfaces\obj\Debug\net6.0\refint\SuperMarket.Services.Interfaces.dll
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Services.Interfaces\obj\Debug\net6.0\SuperMarket.Services.Interfaces.pdb
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Services.Interfaces\obj\Debug\net6.0\ref\SuperMarket.Services.Interfaces.dll

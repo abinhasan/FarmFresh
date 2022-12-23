@@ -1,0 +1,12 @@
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Domain.Enums\bin\Debug\net6.0\SuperMarket.Domain.Enums.deps.json
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Domain.Enums\bin\Debug\net6.0\SuperMarket.Domain.Enums.dll
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Domain.Enums\bin\Debug\net6.0\SuperMarket.Domain.Enums.pdb
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Domain.Enums\obj\Debug\net6.0\SuperMarket.Domain.Enums.csproj.AssemblyReference.cache
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Domain.Enums\obj\Debug\net6.0\SuperMarket.Domain.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Domain.Enums\obj\Debug\net6.0\SuperMarket.Domain.Enums.AssemblyInfoInputs.cache
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Domain.Enums\obj\Debug\net6.0\SuperMarket.Domain.Enums.AssemblyInfo.cs
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Domain.Enums\obj\Debug\net6.0\SuperMarket.Domain.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Domain.Enums\obj\Debug\net6.0\SuperMarket.Domain.Enums.dll
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Domain.Enums\obj\Debug\net6.0\refint\SuperMarket.Domain.Enums.dll
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Domain.Enums\obj\Debug\net6.0\SuperMarket.Domain.Enums.pdb
+C:\Users\Abin\Documents\My\Project\SuperMarket\SuperMarket.Domain.Enums\obj\Debug\net6.0\ref\SuperMarket.Domain.Enums.dll

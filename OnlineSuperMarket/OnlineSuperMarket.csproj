@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.12">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SuperMarket.Domain.DTO\SuperMarket.Domain.DTO.csproj" />
+    <ProjectReference Include="..\SuperMarket.Domain.Entities\SuperMarket.Domain.Entities.csproj" />
+    <ProjectReference Include="..\SuperMarket.Domain.Interfaces\SuperMarket.Domain.Interfaces.csproj" />
+    <ProjectReference Include="..\SuperMarket.Infrastructure.Data\SuperMarket.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\SuperMarket.Services.Interfaces\SuperMarket.Services.Interfaces.csproj" />
+    <ProjectReference Include="..\SuperMarket.Services\SuperMarket.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+</Project>

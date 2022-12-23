@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.2.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SuperMarket.Domain.DTO\SuperMarket.Domain.DTO.csproj" />
+    <ProjectReference Include="..\SuperMarket.Domain.Interfaces\SuperMarket.Domain.Interfaces.csproj" />
+    <ProjectReference Include="..\SuperMarket.Services.Interfaces\SuperMarket.Services.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>
